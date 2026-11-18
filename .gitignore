@@ -6,3 +6,4 @@ build/
 .venv/
 .eggs/
 batch_apply*.py
+.dsh/
